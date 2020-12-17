@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "130039eb501e95fcf0967ec6cb3b1a7b"
+build_time: [1608210382, 687128000]
+inputs:
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/Calculator/Calculator/ViewController.swift": [1608210368, 225120380]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/Calculator/Calculator/AppDelegate.swift": [1608210368, 207506918]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/Calculator/Calculator/SceneDelegate.swift": [1608210368, 222751491]
